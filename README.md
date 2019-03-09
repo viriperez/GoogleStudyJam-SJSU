@@ -32,7 +32,8 @@ Google Study Jams offer students official Google training, a $70+ value, free of
 ```
 That was a great event! Thanks for that :) When would the next event be? If you could please notify me about these events, that would be great! Thanks
 It was great meeting you today at the Google Cloud Study Jam. Hopefully I'll see you again next time there is a workshop!
-Thank you for conducting Google Cloud Study Jam at SJSU. It was a wonderful event!
+Thank you for conducting Google Cloud Study Jam at SJSU. 
+It was a wonderful event!
 Loved the robot demo!
 It was a fun event, had a blast!
 
