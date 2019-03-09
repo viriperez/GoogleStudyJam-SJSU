@@ -5,7 +5,7 @@
 Google Study Jams offer students official Google training, a $70+ value, free of charge. Together we'll work through 4 Google Cloud labs. You will get hands-on experience with the cloud console, Kubernetes and Machine Learning. After the event, you will have free access to 3 more labs at home. By completing all 7 labs, you will earn a Google-hosted badge to add to your online profile.
 
 <p align="center">
-<img src="https://github.com/viriperez/GoogleStudyJam-SJSU/blob/master/studyjam1.jpg" width="600" height="400">
+<img src="https://github.com/viriperez/GoogleStudyJam-SJSU/blob/master/studyjam1.jpg" width="600" height="600">
 </p>
 
 # **Upcoming Workshop**
